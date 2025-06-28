@@ -1,0 +1,6 @@
+# Ignore all email signature directories
+**/Email Signatures/
+**/*Email Signatures*/
+
+# Ignore all email signature template files
+**/*email-sig-template*
