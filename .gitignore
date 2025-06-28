@@ -4,3 +4,14 @@
 
 # Ignore all email signature template files
 **/*email-sig-template*
+
+# Hide .gitignore itself
+.gitignore
+
+# Email signature files and folders (corrected paths)
+ALLIN/CompoundIn-2025/CI-Email Signatures/
+ALLIN/CompoundIn-2025/CI-email-sig-template-20250626.html
+DAYDREAM/Amar-2025/Email Signatures/
+DAYDREAM/Amar-2025/Amar-email-sig-template-20250626.html
+DAYDREAM/InAction Events-2025/IAE-Email Signatures-202506/
+DAYDREAM/InAction Events-2025/IAE-email-sig-template.html
